@@ -27,6 +27,8 @@ Excel: For data cleaning and preliminary analysis.
 
 
 
-## Output :-   
-         ![Screenshot 2024-09-24 101034](https://github.com/user-attachments/assets/1692e1f1-d049-4d21-aaac-ecad62f9e642)
+## Output:- 
+         ![Screenshot 2024-09-24 101034](https://github.com/user-attachments/assets/5a4b7801-c68f-4e8e-a7fc-d909e17f5c05)
+
+        
 
